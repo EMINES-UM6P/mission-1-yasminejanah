@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#0b1f79</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="background">#1450c9</color>
-    <color name="input_color">#4196ca</color>
-    <color name="btn_color">#0e1679</color>
+    <color name="background">#22327c</color>
+    <color name="input_color">#ffffff</color>
+    <color name="btn_color">#ff00d5</color>
     <color name="white">#ffffff</color>
+    <color name="grey">#7c7c7c</color>
 
     <!-- // TODO : Create 3 colors (Background_color, input_color, btn_color) -->
 </resources>
