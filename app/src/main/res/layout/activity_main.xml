@@ -10,7 +10,9 @@
     >
 <EditText
     android:id="@+id/name"
-    android:layout_margingbottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margingBottom="10dp"
     android:background="@color/input_color"
     android:padding="10dp"
     />
@@ -18,8 +20,10 @@
     <!-- // TODO : Add EditText for user's name with (id="@+id/name", layout_marginBottom="10dp", background="@color/input_color", padding="10dp") -->
     <EditText
         android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
-        android:layout_margingbottom="10dp"
+        android:layout_margingBottom="10dp"
         android:background="@color/input_color"
         android:padding="10dp"
         />
@@ -28,8 +32,10 @@
 
     <EditText
         android:id="@+id/password"
-        android:inputType="textpassword"
-        android:layout_margingbottom="10dp"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margingBottom="10dp"
         android:background="@color/input_color"
         android:padding="10dp"
         />
@@ -37,6 +43,8 @@
     <!-- // TODO : Add EditText for user's password with (id="@+id/password", inputType="textPassword", layout_marginBottom="10dp", background="@color/input_color", padding="10dp") -->
     <Button
         android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margingTop="20dip"
         android:background="@color/btn_color"
         android:text="@string/btn_register"
