@@ -3,6 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="background">#1450c9</color>
+    <color name="input_color">#4196ca</color>
+    <color name="btn_color">#0e1679</color>
 
     <!-- // TODO : Create 3 colors (Background_color, input_color, btn_color) -->
 </resources>
